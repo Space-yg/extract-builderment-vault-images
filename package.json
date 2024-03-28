@@ -1,0 +1,13 @@
+{
+  "name": "extract-builderment-vault-images",
+  "version": "1.0.0",
+  "description": "Extract all images from The Builderment Vault",
+  "main": "dir/index.js",
+  "scripts": {},
+  "author": "Space.yg",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
